@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Aahad <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Aahad <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-stack+Developer+%7C+DevOps+Engineer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -48,7 +48,7 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/azizovrafael"><img alt="Aahad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=staz6&custom_title=Aahad%27s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/staz6"><img alt="Aahad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=staz6&custom_title=Aahad%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
   
