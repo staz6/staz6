@@ -55,5 +55,5 @@
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammad-aahad-568aaa179/"><img src="https://img.shields.io/badge/-Aahad%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-aahad-568aaa179/"><img src="https://img.shields.io/badge/-Aahad%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
