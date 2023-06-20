@@ -48,7 +48,7 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/staz6"><img alt="Aahad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=staz6&custom_title=Aahad%27s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/staz6"><img alt="Aahad's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=staz6&custom_title=Aahad%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
   
